@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T13:44:16.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="EADmHVoUHwAnMThp_Axg" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T13:45:34.008Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="zLvvRl_4CI89Oqs5Y5bo" version="21.0.6" type="github">
   <diagram name="Page-1" id="KAqMbeokfCdkyRzyO9_J">
     <mxGraphModel dx="892" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -74,7 +74,12 @@
         <mxCell id="sjp2IaIwXUAloxB-_zRW-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sjp2IaIwXUAloxB-_zRW-19">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="530" y="70" as="sourcePoint" />
-            <mxPoint x="960" y="200" as="targetPoint" />
+            <mxPoint x="1071.8181818181818" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjp2IaIwXUAloxB-_zRW-31" value="7. Subject Newsletter" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sjp2IaIwXUAloxB-_zRW-20">
+          <mxGeometry x="-0.102" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sjp2IaIwXUAloxB-_zRW-22" value="SME&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
@@ -84,7 +89,7 @@
           <mxGeometry x="900" y="305" width="30" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sjp2IaIwXUAloxB-_zRW-27" value="SME&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="370" width="30" height="35" as="geometry" />
+          <mxGeometry x="860" y="270" width="30" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sjp2IaIwXUAloxB-_zRW-28" value="NASH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="920" y="250" width="60" height="30" as="geometry" />
