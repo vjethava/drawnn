@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T13:36:30.420Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="2wdZSo2RGPaCVjJzBQLC" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T13:39:03.290Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="-jOf-0hFhh_VihFHfZbA" version="21.0.6" type="github">
   <diagram name="Page-1" id="KAqMbeokfCdkyRzyO9_J">
     <mxGraphModel dx="892" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -33,6 +33,34 @@
         </mxCell>
         <mxCell id="sjp2IaIwXUAloxB-_zRW-7" value="New Articles&lt;br&gt;Patents&lt;br&gt;Papers (Full-text)&lt;br&gt;Conferences&lt;br&gt;..." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="sjp2IaIwXUAloxB-_zRW-10">
           <mxGeometry y="110" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjp2IaIwXUAloxB-_zRW-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="sjp2IaIwXUAloxB-_zRW-1" target="sjp2IaIwXUAloxB-_zRW-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="100" as="sourcePoint" />
+            <mxPoint x="510" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjp2IaIwXUAloxB-_zRW-16" value="4. Filtered, &lt;br&gt;Tagged Results" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sjp2IaIwXUAloxB-_zRW-11">
+          <mxGeometry x="-0.2753" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjp2IaIwXUAloxB-_zRW-13" value="Tool B" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sjp2IaIwXUAloxB-_zRW-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="sjp2IaIwXUAloxB-_zRW-13" target="sjp2IaIwXUAloxB-_zRW-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="100" as="sourcePoint" />
+            <mxPoint x="580" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjp2IaIwXUAloxB-_zRW-17" value="5. Additional Tags" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="sjp2IaIwXUAloxB-_zRW-14">
+          <mxGeometry x="-0.1836" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sjp2IaIwXUAloxB-_zRW-15" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="20" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
