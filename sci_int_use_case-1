@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-31T13:46:19.988Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="osmKtNnjUtryB64u_5OA" version="21.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-31T13:47:25.801Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36 Edg/111.0.1661.54" etag="Zr4Tky4vgaEIGKuhqaZ_" version="21.0.6" type="github">
   <diagram name="Page-1" id="KAqMbeokfCdkyRzyO9_J">
     <mxGraphModel dx="892" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -69,7 +69,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sjp2IaIwXUAloxB-_zRW-19" value="Tool C&lt;br&gt;&lt;br&gt;6. manual review, &lt;br&gt;ranking of results" style="shape=internalStorage;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="150" width="140" height="100" as="geometry" />
+          <mxGeometry x="710" y="150" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="sjp2IaIwXUAloxB-_zRW-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="sjp2IaIwXUAloxB-_zRW-19" target="sjp2IaIwXUAloxB-_zRW-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -82,20 +82,20 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sjp2IaIwXUAloxB-_zRW-22" value="SME&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="240" width="30" height="35" as="geometry" />
+        <mxCell id="sjp2IaIwXUAloxB-_zRW-22" value="SME&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="890" y="230" width="30" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="sjp2IaIwXUAloxB-_zRW-26" value="SME&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="900" y="305" width="30" height="35" as="geometry" />
+        <mxCell id="sjp2IaIwXUAloxB-_zRW-26" value="SME&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="890" y="290" width="30" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sjp2IaIwXUAloxB-_zRW-27" value="SME&lt;br&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="860" y="270" width="30" height="35" as="geometry" />
+          <mxGeometry x="850" y="255" width="30" height="35" as="geometry" />
         </mxCell>
         <mxCell id="sjp2IaIwXUAloxB-_zRW-28" value="NASH" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="920" y="250" width="60" height="30" as="geometry" />
+          <mxGeometry x="930" y="235" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sjp2IaIwXUAloxB-_zRW-29" value="Patents" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="930" y="305" width="60" height="30" as="geometry" />
+          <mxGeometry x="930" y="295" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sjp2IaIwXUAloxB-_zRW-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/picons-social/57/78-mailchimp-2-128.png" vertex="1" parent="1">
           <mxGeometry x="1080" y="170" width="60" height="60" as="geometry" />
